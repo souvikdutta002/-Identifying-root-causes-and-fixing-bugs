@@ -1,5 +1,5 @@
 
-<img src ="https://www.q5partners.com/wp-content/uploads/2021/07/datacom.png" alt ="DATACOM" style ="width: 300px; height=200px; object-fit: contain;">
+<img src ="https://cdn.theforage.com/vinternships/companyassets/gCW7Xki5Y3vNpBmnn/3gcAGm4XfHPEeiGo3/1677531088428/datacom%20logo.png" alt ="DATACOM">
 
 ## 🐞 Task – Identifying Root Cause & Fixing Bug
 
@@ -165,14 +165,29 @@ This project improved my understanding of:
 
 
 # 💫 About Me:
-Cybersecurity Analyst Intern | BCA Student at The Neotia University | Certified in Threat Analysis & Ethical Hacking | Passionate About Network Security & Data Protection
+As a dedicated Cybersecurity student at The Neotia University, I am committed to building a strong foundation in network security, ethical hacking, and threat analysis. My journey so far has included hands-on internships and industry-backed simulations, where I’ve developed a keen understanding of how to protect digital environments against evolving threats.
+
+- Completed virtual job simulations with Deloitte Australia, Tata, KPMG, AIG Sheild's Up and Datacom through Forage, gaining real-world exposure to threat detection, risk analysis, and incident response.
+- Currently interning as a Cyber Security Analyst, applying classroom knowledge to practical scenarios and strengthening my analytical and problem-solving abilities.
+- Actively learning key tools and techniques, including Identity and Access Management (IAM), log analysis, and risk identification.
+
+I am passionate about bridging academic knowledge with practical experience and am eager to connect with professionals, mentors, and peers who share my enthusiasm for cybersecurity. My goal is to contribute to a safer digital world by continuously learning, collaborating, and challenging myself.
+
+Let’s connect if you are looking for a motivated cybersecurity enthusiast ready to take on new challenges and make an impact!
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souvikdutta002) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Nmap-lightblue%20?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Html-gray?style=for-the-badge&logo=html5) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+# TOOLS
+![Static Badge](https://img.shields.io/badge/BURPSUITE-white?style=for-the-badge&logo=burpsuite) ![Static Badge](https://img.shields.io/badge/Nmap-lightblue%20?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)![Static Badge](https://img.shields.io/badge/OWSAP_ZAP-indigo?style=for-the-badge&logo=zap) ![Static Badge](https://img.shields.io/badge/Metasploit_Framework-white?style=for-the-badge&logo=metasploit)
+
+
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=souvikdutta002&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -199,7 +214,7 @@ I'm constantly learning and building projects in <b>Cybersecurity, Ethical Hacki
 <p align="center">
 <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Learning-Ethical%20Hacking-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/Goal-Cybersecurity%20Analyst-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Goal-Penetration_Testing-red?style=for-the-badge">
 </p>
 
 <p align="center">
