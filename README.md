@@ -1,3 +1,4 @@
+
 <img src ="https://www.q5partners.com/wp-content/uploads/2021/07/datacom.png" alt ="DATACOM" style ="width: 300px; height=200px; object-fit: contain;">
 
 ## 🐞 Task – Identifying Root Cause & Fixing Bug
@@ -160,10 +161,26 @@ This project improved my understanding of:
 4. Testing fixes before deployment
 5. Working with existing codebases
 ```
-
 ---
 
+
+# 💫 About Me:
+Cybersecurity Analyst Intern | BCA Student at The Neotia University | Certified in Threat Analysis & Ethical Hacking | Passionate About Network Security & Data Protection
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souvikdutta002) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Nmap-lightblue%20?style=for-the-badge)
+
+
+![](https://github-readme-stats.vercel.app/api?username=souvikdutta002&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=souvikdutta002&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=souvikdutta002&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=souvikdutta002&icon=0&color=3)](https://visitcount.itsvg.in)
 
 
 <h2 align="center">✨ Thank You for Visiting My Profile ✨</h2>
