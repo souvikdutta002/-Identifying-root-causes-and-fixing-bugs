@@ -1,7 +1,6 @@
 <img src ="https://www.q5partners.com/wp-content/uploads/2021/07/datacom.png" alt ="DATACOM" style ="width: 300px; height=200px; object-fit: contain;">
-🎬 Datacom Software Development Job Simulation 
 
-## 🐞 Task – Identifying Root Cause & Fixing Bugs
+## 🐞 Task – Identifying Root Cause & Fixing Bug
 
 
 ---
