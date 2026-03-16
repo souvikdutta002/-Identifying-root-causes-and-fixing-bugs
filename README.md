@@ -168,8 +168,8 @@ This project improved my understanding of:
 As a dedicated Cybersecurity student at The Neotia University, I am committed to building a strong foundation in network security, ethical hacking, and threat analysis. My journey so far has included hands-on internships and industry-backed simulations, where I’ve developed a keen understanding of how to protect digital environments against evolving threats.
 
 - Completed virtual job simulations with Deloitte Australia, Tata, KPMG, AIG Sheild's Up and Datacom through Forage, gaining real-world exposure to threat detection, risk analysis, and incident response.
-- Currently interning as a Cyber Security Analyst, applying classroom knowledge to practical scenarios and strengthening my analytical and problem-solving abilities.
-- Actively learning key tools and techniques, including Identity and Access Management (IAM), log analysis, and risk identification.
+- Currently interning as a Penetration Testing, applying classroom knowledge to practical scenarios and strengthening my analytical and problem-solving abilities.
+- Actively learning key tools and techniques, including Identity and Access Management (IAM), log analysis, and risk identification, Top 10 OWASP.
 
 I am passionate about bridging academic knowledge with practical experience and am eager to connect with professionals, mentors, and peers who share my enthusiasm for cybersecurity. My goal is to contribute to a safer digital world by continuously learning, collaborating, and challenging myself.
 
